@@ -1,0 +1,171 @@
+.component6{
+    &_logo{
+        position: absolute;
+        top: 3807px;
+        left: 152px;
+        width: 31px;
+        height: 31px;
+        opacity: 1;
+    }
+    &_title{
+        position: absolute;
+        top: 3835px;
+        left: 186px;
+        width: 402px;
+        height: 98px;
+        text-align: left;
+        font: normal normal bold 45px Adobe Caslon Pro;
+        letter-spacing: 0px;
+        color: #05416E;
+        opacity: 1
+    }
+    &_section{
+        & p{
+            position: absolute;
+            top: 3983px;
+            left: 186px;
+            width: 432px;
+            height: 100px;
+            text-align: left;
+            font: normal normal normal 16px/20px Montserrat;
+            letter-spacing: 0px;
+            color: #32AAFF;
+            opacity: 1;
+        }
+        &__div{
+            position: absolute;
+            top: 4118px;
+            left: 186px;
+            width: 159px;
+            height: 40px;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            border: 1px solid #05416E;
+            border-radius: 4px;
+            opacity: 1;
+            &:hover{
+                background: #05416E 0% 0% no-repeat padding-box;
+                border: 1px solid #05416E;
+                border-radius: 4px;
+                opacity: 1;
+            }
+            &___button{
+                padding: 8.53px 54px 9.47px 20px;
+                display: inline-block;
+                text-decoration: none;
+                text-align: left;
+                font: normal normal 600 18px Montserrat;
+                letter-spacing: 0px;
+                color: #05416E;
+                opacity: 1;
+                width: 86px;
+                height: 22px;
+                &:hover{
+                    text-align: left;
+                    font: normal normal 600 20px/24px Montserrat;
+                    letter-spacing: 0px;
+                    color: #F4F4F4;
+                    opacity: 1;
+                }
+                &____icon{
+                    width: 16px;
+                    height: 16px;
+                    padding: 11.53px 22px 12.47px 15px;
+                    text-align: center;
+                }
+            }
+        }
+        &__img{
+            position: absolute;
+            top: 3775px;
+            left: 726px;
+            width: 564px;
+            height: 412px;
+            border-radius: 260px;
+            opacity: 1;
+        }
+    }
+    &_section1{
+        &__img{
+            position: absolute;
+            top: 4367px;
+            left: 150px;
+            width: 564px;
+            height: 412px;
+            opacity: 1;
+        }
+        &__logo{
+            position: absolute;
+            top: 4399px;
+            left: 824px;
+            width: 31px;
+            height: 31px;
+            opacity: 1;
+        }
+        &__title{
+            position: absolute;
+            top: 4427px;
+            left: 858px;
+            width: 387px;
+            height: 98px;
+            text-align: left;
+            font: normal normal bold 46px/52px Adobe Caslon Pro;
+            letter-spacing: 0px;
+            color: #05416E;
+            opacity: 1;
+        }
+        & p{
+            position: absolute;
+            top: 4575px;
+            left: 858px;
+            width: 432px;
+            height: 100px;
+            text-align: left;
+            font: normal normal normal 16px/20px Montserrat;
+            letter-spacing: 0px;
+            color: #32AAFF;
+            opacity: 1;
+        }
+        &__div{
+            position: absolute;
+            top: 4710px;
+            left: 858px;
+            width: 159px;
+            height: 40px;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            border: 1px solid #05416E;
+            border-radius: 4px;
+            opacity: 1;
+            &:hover{
+                background: #05416E 0% 0% no-repeat padding-box;
+                border: 1px solid #05416E;
+                border-radius: 4px;
+                opacity: 1;
+            }
+            &___button{
+                padding: 8.53px 54px 9.47px 20px;
+                display: inline-block;
+                text-decoration: none;
+                text-align: left;
+                font: normal normal 600 18px Montserrat;
+                letter-spacing: 0px;
+                color: #05416E;
+                opacity: 1;
+                width: 86px;
+                height: 22px;
+                &:hover{
+                    text-align: left;
+                    font: normal normal 600 20px/24px Montserrat;
+                    letter-spacing: 0px;
+                    color: #F4F4F4;
+                    opacity: 1;
+                }
+                &____icon{
+                    width: 16px;
+                    height: 16px;
+                    padding: 11.53px 22px 12.47px 15px;
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
